@@ -9,6 +9,6 @@ Using a handful of technologies such as Search Engine Optimization, Online Reput
 - Brand Awareness
 - Cost Management
 
-![Horiseon website]()
+![Horiseon website](https://github.com/StephenFike/Horiseon-webpage/blob/main/assets/images/Horiseon-web-pic.png?raw=true)
 
 Visit [Horiseon](https://stephenfike.github.io/Horiseon-webpage/) and start marketing yourself today!
